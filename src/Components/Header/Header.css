@@ -1,19 +1,18 @@
 .navHeader {
     background-color: #1C2B35;
-    /* color: #FFFF; */
     display: flex;
-    height: 80px;
     align-items: center;
     justify-content: space-between;
+    height: 80px;
     padding-left: 140px;
     padding-right: 140px;
+
 }
 
 .navHeader a {
-    color: white;
+    color: #FFFF;
     text-decoration: none;
-    margin-left: 36px;
-
+    margin-left: 30px;
 }
 
 .navHeader a:hover {
